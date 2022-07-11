@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def plusMinus(arr):
     countP, countN, countZ = 0, 0, 0
     
